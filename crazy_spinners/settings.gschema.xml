@@ -1,0 +1,24 @@
+<schemalist>
+    <schema id="se.miun.crazyspinners" path="/se/miun/crazyspinners/">
+        <key name="is-fullscreen" type="b">
+            <default>false</default>
+            <summary>Startup mode</summary>
+        </key>
+
+        <key name="circle-count" type="i">
+            <default>10</default>
+            <summary>Circle count</summary>
+        </key>
+
+        <key name="width" type="i">
+            <default>640</default>
+            <summary>Startup width</summary>
+        </key>
+
+        <key name="height" type="i">
+            <default>480</default>
+            <summary>Startup height</summary>
+        </key>
+
+    </schema>
+</schemalist>
